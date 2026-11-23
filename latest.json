@@ -1,17 +1,27 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "patches": [
     {
       "from_version": "1.0.0",
-      "to_version": "1.0.4",
-      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.4/mr-clipping-patch-1.0.0-to-1.0.4.zip",
-      "size_bytes": 4397,
-      "sha256": "b9388ff7d9002a2c792a12ea514edb3a29c632d2a627fc6a13edb0b1b872bb05",
-      "signature": "gDi1zphuqzmkUV+QHIYe+Iggt3ElQzaCXOnX06yHVmAX5ZQoqBH7YwkRB4dNT53FaSrdPTwfl+e+h+3LKwM+DQ==",
-      "updated_count": 2,
+      "to_version": "1.0.5",
+      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.5/mr-clipping-patch-1.0.0-to-1.0.5.zip",
+      "size_bytes": 50036,
+      "sha256": "0fa72fd52581680ff032930ae20ac37e2c95a4feec9711eea114c8099fe31c17",
+      "signature": "T33S/VMx99L7gdhqcqt4DEgUptncAUllQY/uuIn7Hxm2z9VxMkeoJt4qwY9u4ex2Pcew06y55AXEz7Bi2PjDCQ==",
+      "updated_count": 10,
+      "deleted_count": 0
+    },
+    {
+      "from_version": "1.0.4",
+      "to_version": "1.0.5",
+      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.5/mr-clipping-patch-1.0.4-to-1.0.5.zip",
+      "size_bytes": 50036,
+      "sha256": "08e0fb667d8469b49207c736a92fb792db12012f1bf0c6f41c387dfec627cb88",
+      "signature": "lmNd2bSx09VLlYjatg5+ZFxNIKjs/d6eL2yd6k72kydl1MwPQOlPAtFMhltoj9mXm4UqP3Sw60kUBQf8mAEJAA==",
+      "updated_count": 10,
       "deleted_count": 0
     }
   ],
-  "download_url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/tag/v1.0.4",
-  "notes": "Corrige Comprobar pago y Comprobar suscripción para actualizar tu saldo sin errores tras pagar en PayPal."
+  "download_url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/tag/v1.0.5",
+  "notes": "Parche de mejoras: corrige transcripción en gráficas GTX/GPU/CPU sin quedarse en 24%, agrega porcentaje y velocidad real en descargas de YouTube, y añade soporte propio para directos de YouTube en vivo."
 }
