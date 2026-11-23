@@ -1,37 +1,47 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "patches": [
     {
       "from_version": "1.0.0",
-      "to_version": "1.0.6",
-      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.6/mr-clipping-patch-1.0.0-to-1.0.6.zip",
-      "size_bytes": 50160,
-      "sha256": "43737cb9affe915f9869a3e71aef42553f28bc33e20546f4144551a9115fb6b2",
-      "signature": "TczcPCiwNbp4FV/pI/Qsg2ajjS4RyqfLaVi3+uPRkhWbDWME5R3o/g+ScavX1dx5OdZfV4pNs/rqP7INABoJAw==",
+      "to_version": "1.0.7",
+      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.7/mr-clipping-patch-1.0.0-to-1.0.7.zip",
+      "size_bytes": 50486,
+      "sha256": "a29f76325f914bd5a8ab842f590d4b0a36737376be16a5507bb702276ed60ba9",
+      "signature": "MEKIyQuSgDBdNdTLq7OGrWFIh9S8fGi7zM8V4hxKu+JvRc59mlxw3/gwGXoLDspgBzAc+Q1uyJIOa/ITFGUVAQ==",
       "updated_count": 10,
       "deleted_count": 0
     },
     {
       "from_version": "1.0.4",
-      "to_version": "1.0.6",
-      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.6/mr-clipping-patch-1.0.4-to-1.0.6.zip",
-      "size_bytes": 50160,
-      "sha256": "ada862145c8f133ca683b9f26da39b8154614d0593c247dfc3da7753e486ccd2",
-      "signature": "k1fHh4szV5dGRyuUWXiUB3fEy+vfr8Tzr0M3rqbX7zrB+29lYpRZxkGnuRZZqwHI03Kg1FPa4tBC+dL1ErFtDQ==",
+      "to_version": "1.0.7",
+      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.7/mr-clipping-patch-1.0.4-to-1.0.7.zip",
+      "size_bytes": 50486,
+      "sha256": "54cded394a8791ba177046865df58adb8e86e77a16aea275b826ee1420d26c05",
+      "signature": "NBjM4gK+qsMJV+3LWB3U3SHwCgZ1O5nPiHcOKLF9zyxnxWjDtCzM78Fgbaw1vxrSvTuRe38sSwv98VHFbUaDAw==",
       "updated_count": 10,
       "deleted_count": 0
     },
     {
       "from_version": "1.0.5",
-      "to_version": "1.0.6",
-      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.6/mr-clipping-patch-1.0.5-to-1.0.6.zip",
-      "size_bytes": 5723,
-      "sha256": "caabc9fc16094b490b16c09f320f576501c3f940c1414eec74a221244f31e331",
-      "signature": "F47Td2mt8FiFPCyc/eAHV+T1JKMAGGAHKx7wP4MNa/+dbVZdnGRXDZGh8QHcaLTpwkzoXJ9Y+m5DJAkxY4IAAA==",
-      "updated_count": 2,
+      "to_version": "1.0.7",
+      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.7/mr-clipping-patch-1.0.5-to-1.0.7.zip",
+      "size_bytes": 26219,
+      "sha256": "774e0f084dbe5a9541456512ebecec35e5bb5c7442dfa0b60f2ac8420482030d",
+      "signature": "oi1kIv9J0NsIcLtAFMC9Oi7IRQP/utyhRGnh7S2RGnbMKIofKfxThpxeCt0el2n0O8hgw+VLVgZRp2bLM5mMDQ==",
+      "updated_count": 3,
+      "deleted_count": 0
+    },
+    {
+      "from_version": "1.0.6",
+      "to_version": "1.0.7",
+      "url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/download/v1.0.7/mr-clipping-patch-1.0.6-to-1.0.7.zip",
+      "size_bytes": 26219,
+      "sha256": "b93335ea59a08e601a22ed2132bd06b09b804081aee05f9d1d899978c7d723de",
+      "signature": "ptFISwnXjMJldGSa1TT2LKbIrOM1zHFYnTUL7hNIIJDc6up9tX+rqa4J8YVtiRVsbSyjtMcwFtFSWsxPFvY4BQ==",
+      "updated_count": 3,
       "deleted_count": 0
     }
   ],
-  "download_url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/tag/v1.0.6",
-  "notes": "Muestra el porcentaje real (0-100%) y la velocidad en vivo al descargar videos de YouTube, incluye mejoras GTX/GPU/CPU y soporte para directos de YouTube."
+  "download_url": "https://github.com/juanvalentin1212-art/mr-clipping-updates/releases/tag/v1.0.7",
+  "notes": "Soporte completo para directos de YouTube en vivo (@canal/live, /live/ID y grabación de minutos elegidos para sacar clips) + porcentaje real en descargas de YouTube + transcripción GTX/GPU/CPU."
 }
